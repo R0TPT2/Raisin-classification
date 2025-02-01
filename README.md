@@ -1,0 +1,1 @@
+/Predicting the type of raisin using three different machine learning models—MLP (Multi-Layer Perceptron), SVM (Support Vector Machine), and Random Forest. The goal was to classify raisins into their respective categories based on features like area, perimeter, and compactness./
